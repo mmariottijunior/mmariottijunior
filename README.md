@@ -23,5 +23,3 @@
 
 
 ###
-
- ![Snake animation](https://github.com/marco/mariotti/blob/output/github-contribution-grid-snake.svg)
